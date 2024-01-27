@@ -7,10 +7,12 @@
 vue+node可视化部署工具~
 
 
-[项目github地址]()
+[项目github地址](https://github.com/verneyZhou/vn-node-deploy)
 
 
 ## 启动
+
+> node v16+
 
 
 - npm install

@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node index.js start",
+    "stop": "pm2 stop vn-node-deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
